@@ -1,0 +1,46 @@
+name: kuis_pilgan
+description: Aplikasi kuis pilihan ganda responsif dengan Provider.
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ^3.13.2
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.5+1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/banner.png
+    - assets/images/icon.png
+  fonts:
+    # Nama family bebas. Ganti kedua file di bawah dengan font berlisensi
+    # milikmu, lalu pertahankan nama file agar tidak perlu mengubah kode Dart.
+    - family: MinecraftFont
+      fonts:
+        - asset: assets/fonts/Minecraft.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/images/icon.png
+  adaptive_icon_background: "#F1E8D6"
+  adaptive_icon_foreground: assets/images/icon.png
+  web:
+    generate: true
+    image_path: assets/images/icon.png
+    background_color: "#F1E8D6"
+    theme_color: "#4F7D31"
+  windows:
+    generate: true
+    image_path: assets/images/icon.png
+    icon_size: 256
+  macos:
+    generate: true
+    image_path: assets/images/icon.png
