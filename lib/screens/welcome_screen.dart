@@ -68,7 +68,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                     ),
                     const SizedBox(height: 8),
                     const Text(
-                      'Masukkan nama untuk memulai kuis crafting Minecraft.',
+                      'Masukkan nama untuk memulai kuis terkait Minecraft.',
                       textAlign: TextAlign.center,
                     ),
                     const SizedBox(height: 24),

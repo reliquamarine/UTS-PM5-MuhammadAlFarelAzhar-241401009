@@ -49,21 +49,75 @@ Aplikasi menggunakan Provider untuk mengelola nama pemain, progres, jawaban, sko
 
 Buat folder `docs/screenshots/`, kemudian tambahkan:
 
-1. `welcome-light.png` - halaman welcome dalam light mode.
-2. `welcome-dark.png` - halaman welcome dalam dark mode.
-3. `quiz.png` - halaman kuis ketika jawaban dipilih.
-4. `result.png` - ringkasan skor akhir.
-5. `evaluation.png` - daftar evaluasi jawaban benar dan salah.
-6. `responsive-tablet-web.png` - tampilan tablet atau browser.
+1. `welcome.png` - halaman welcome.
+<table border="0">
+  <tr>
+    <td align="center">
+      <b>Welcome - Light Mode</b><br/>
+      <img src="docs/screenshots/welcome-light.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Welcome - Dark mode</b><br/>
+      <img src="docs/screenshots/welcome-dark.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
-Setelah screenshot tersedia, tampilkan di README:
+2. `quiz.png` - halaman kuis ketika jawaban dipilih.
+<table border="0">
+  <tr>
+    <td align="center">
+      <b>Quiz - Light Mode</b><br/>
+      <img src="docs/screenshots/quiz-light.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Quiz - Dark mode</b><br/>
+      <img src="docs/screenshots/quiz-dark.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
-```md
-![Welcome QUIZCRAFT!](docs/screenshots/welcome-light.png)
-![Halaman Kuis](docs/screenshots/quiz.png)
-![Hasil Kuis](docs/screenshots/result.png)
-![Evaluasi Jawaban](docs/screenshots/evaluation.png)
-```
+3. `result.png` - ringkasan skor akhir.
+<table border="0">
+  <tr>
+    <td align="center">
+      <b>Result - Light Mode</b><br/>
+      <img src="docs/screenshots/result-light.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Result - Dark mode</b><br/>
+      <img src="docs/screenshots/result-dark.png" width="250"/>
+    </td>
+  </tr>
+</table>
+
+4. `evaluation.png` - daftar evaluasi jawaban benar dan salah.
+<table border="0">
+  <tr>
+    <td align="center">
+      <b>Eval - Light Mode</b><br/>
+      <img src="docs/screenshots/eval-light.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Eval - Dark mode</b><br/>
+      <img src="docs/screenshots/eval-dark.png" width="250"/>
+    </td>
+  </tr>
+</table>
+
+5. `responsive-tablet-web.png` - tampilan tablet atau browser.
+<table border="0">
+  <tr>
+    <td align="center">
+      <b>Tablet Mode</b><br/>
+      <img src="docs/screenshots/tablet.png" width="250"/>
+    </td>
+    <td align="center">
+      <b>Web Mode</b><br/>
+      <img src="docs/screenshots/web.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ### 3. Link Mockup/Prototype Aplikasi
 
