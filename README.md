@@ -47,8 +47,6 @@ Aplikasi menggunakan Provider untuk mengelola nama pemain, progres, jawaban, sko
 
 ### 2. Screenshot Tiap Page Aplikasi
 
-Buat folder `docs/screenshots/`, kemudian tambahkan:
-
 1. `welcome.png` - halaman welcome.
 <table border="0">
   <tr>
@@ -121,7 +119,7 @@ Buat folder `docs/screenshots/`, kemudian tambahkan:
 
 ### 3. Link Mockup/Prototype Aplikasi
 
-Mockup dibuat dengan menggunakan figma:
+Prototype dibuat dengan menggunakan figma dengan alur:
 
 ```text
 Welcome -> Quiz -> Result dan Evaluasi -> Kembali ke Welcome
