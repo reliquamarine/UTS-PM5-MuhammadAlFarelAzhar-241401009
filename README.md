@@ -121,16 +121,14 @@ Buat folder `docs/screenshots/`, kemudian tambahkan:
 
 ### 3. Link Mockup/Prototype Aplikasi
 
-Mockup dapat dibuat menggunakan Figma, Canva, atau alat desain lain berdasarkan referensi visual yang telah disiapkan. Buat minimal alur:
+Mockup dibuat dengan menggunakan figma:
 
 ```text
 Welcome -> Quiz -> Result dan Evaluasi -> Kembali ke Welcome
 ```
 
-Atur akses menjadi **Anyone with the link can view**, lalu ganti placeholder berikut:
-
 ```text
-Link mockup/prototype: [TEMPELKAN LINK PUBLIK DI SINI]
+Link mockup/prototype: https://www.figma.com/design/5DJRmVDENYHdn5nuMB1fRD/UTS_PM5_Alfarel_009?node-id=1-2&t=SzZJwGhq6Zp6cjvA-1
 ```
 
 ## Konfigurasi Font Minecraft
