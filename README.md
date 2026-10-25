@@ -130,7 +130,7 @@ Link mockup/prototype: https://www.figma.com/design/5DJRmVDENYHdn5nuMB1fRD/UTS_P
 ```
 
 ```text
-Link penjelasan demo: [https://www.figma.com/design/5DJRmVDENYHdn5nuMB1fRD/UTS_PM5_Alfarel_009?node-id=1-2&t=SzZJwGhq6Zp6cjvA-1](https://drive.google.com/file/d/18C3WwE7K8WPEnJ5-df1kZ1ejyN4KGpqO/view?usp=sharing)
+Link penjelasan demo: https://drive.google.com/file/d/18C3WwE7K8WPEnJ5-df1kZ1ejyN4KGpqO/view?usp=sharing
 ```
 
 ## Konfigurasi Font Minecraft
