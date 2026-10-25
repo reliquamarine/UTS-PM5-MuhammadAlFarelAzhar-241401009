@@ -117,7 +117,7 @@ Aplikasi menggunakan Provider untuk mengelola nama pemain, progres, jawaban, sko
   </tr>
 </table>
 
-### 3. Link Mockup/Prototype Aplikasi
+### 3. Link Mockup/Prototype & Video Penjelasan Demo Aplikasi
 
 Prototype dibuat dengan menggunakan figma dengan alur:
 
@@ -127,6 +127,10 @@ Welcome -> Quiz -> Result dan Evaluasi -> Kembali ke Welcome
 
 ```text
 Link mockup/prototype: https://www.figma.com/design/5DJRmVDENYHdn5nuMB1fRD/UTS_PM5_Alfarel_009?node-id=1-2&t=SzZJwGhq6Zp6cjvA-1
+```
+
+```text
+Link penjelasan demo: [https://www.figma.com/design/5DJRmVDENYHdn5nuMB1fRD/UTS_PM5_Alfarel_009?node-id=1-2&t=SzZJwGhq6Zp6cjvA-1](https://drive.google.com/file/d/18C3WwE7K8WPEnJ5-df1kZ1ejyN4KGpqO/view?usp=sharing)
 ```
 
 ## Konfigurasi Font Minecraft
